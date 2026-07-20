@@ -1,0 +1,10 @@
+# Flask backend dependencies for the Fake News Detection project.
+# Install with:  pip install -r requirements.txt
+
+Flask==3.0.3
+flask-cors==4.0.1
+scikit-learn==1.5.0
+pandas==2.2.2
+numpy==1.26.4
+nltk==3.8.1
+gunicorn==22.0.0
